@@ -3,8 +3,9 @@
     --black-color: #170102;
 }
 
-body{
-    font-family: "Monserrat", sans-serif;
+main{
+    font-family: "Montserrat", sans-serif;
+    overflow: hidden;
 }
 
 .text-serif{
